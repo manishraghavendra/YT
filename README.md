@@ -1,5 +1,5 @@
 # YT-Notes
-![YT-Notes Screenshot](./screenshot.png)
+![YT-Notes Screenshot](./Screenshot.png)
 
 YT-Notes is a web application that allows users to take notes on YouTube videos. Users can enter a video ID, watch the video, and create timestamped notes that link directly to specific points in the video.
 
